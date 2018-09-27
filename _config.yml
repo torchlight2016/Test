@@ -1,13 +1,13 @@
 # Site settings
 title:          Android
-description:    "Minimal Jekyll theme for storytellers"
+description:    "android story"
 url:            "https://torchlight2016.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         torchlight2016
+  url:          https://github.com/torchlight2016/android.tale
+  email:        developer905@gmail.com
 
 # Build settings
 markdown:       kramdown
