@@ -8,7 +8,7 @@ author: "Chester"
 
 아래 이미지는 세로 방향으로 촬영한 이미지의 정보입니다.
 
-<img src="/android.tale/assets/device-2018-03-31-003638.png">
+<img src="../assets/device-2018-03-31-003638.png">
 
 해상도는 4160x2340로 나오지만 이미지 정보에서 방향 정보를 확인할 수 있습니다.
 
